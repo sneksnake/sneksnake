@@ -1,5 +1,6 @@
 
 ## 🌐 Socials:
+[![](https://visitcount.itsvg.in/api?id=sneksnake&icon=0&color=8)](https://visitcount.itsvg.in)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCstj-Rf2CihLtcLMTukeXiA) 
 
 # 💻 Tech Stack:
@@ -11,6 +12,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sneksnake&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=sneksnake&icon=0&color=8)](https://visitcount.itsvg.in)
